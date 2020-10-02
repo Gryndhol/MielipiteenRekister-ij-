@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MielipiteenRekisteröijä": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\jusu9\\source\\repos\\MielipiteenRekisteröijä\\MielipiteenRekisteröijä\\bin\\Debug\\netcoreapp3.1\\MielipiteenRekisteröijä.exe"
+    }
+  }
+}
